@@ -16,4 +16,4 @@ $ rails db:reset db:migrate db:seed
 
 To start the server, run `rails server`.
 
-Log in at [http://localhost:3000/](http://localhost:3000/) with email `example@railstutorial.org` and password `foobar`.
+Log in at [http://localhost:3000/login](http://localhost:3000/login) with email `example@railstutorial.org` and password `foobar`.
