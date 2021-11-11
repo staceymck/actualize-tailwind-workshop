@@ -7,7 +7,7 @@ If you don't have them already, you'll need [yarn](https://yarnpkg.com/getting-s
 To get set up:
 
 ```
-$ git clone git@github.com:TandaHQ/actualize-tailwind-workshop.git
+$ git clone https://github.com/TandaHQ/actualize-tailwind-workshop.git
 $ cd actualize-tailwind-workshop
 $ bundle install
 $ yarn
